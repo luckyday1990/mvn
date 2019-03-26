@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.szss.sec.global</groupId>
+  <artifactId>global</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>global-core</module>
+  </modules>
+  <packaging>pom</packaging>
+
+  <name>global</name>
+
+  <repositories>
+
+    <!--aliyun仓库-->
+    <repository>
+      <id>aliyun</id>
+      <name>aliyun</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+      <layout>default</layout>
+    </repository>
+    <!--docker单元测试-->
+    <repository>
+      <id>palantir</id>
+      <name>palantir</name>
+      <url>https://dl.bintray.com/palantir/releases</url>
+      <layout>default</layout>
+    </repository>
+    <!--避免mvn site报错-->
+    <repository>
+      <id>spring</id>
+      <name>spring</name>
+      <url>http://repo.spring.io/plugins-release</url>
+    </repository>
+    <!--spring milestones-->
+    <repository>
+      <id>spring-milestones</id>
+      <name>Spring Milestones</name>
+      <url>https://repo.spring.io/libs-milestone</url>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </repository>
+    <!--springfox-->
+    <repository>
+      <id>jcenter-snapshots</id>
+      <name>jcenter</name>
+      <url>https://jcenter.bintray.com/</url>
+    </repository>
+
+    <repository>
+      <id>sec-releases</id>
+      <name>releases</name>
+      <url>http://192.168.200.31:8081/repository/maven-releases/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+    <repository>
+      <id>sec-snapshots</id>
+      <name>snapshots</name>
+      <url>http://192.168.200.31:8081/repository/maven-snapshots/</url>
+    </repository>
+
+    <!--云效私服-->
+    <repository>
+      <id>rdc-releases</id>
+      <name>releases</name>
+      <url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+    <repository>
+      <id>rdc-snapshots</id>
+      <name>snapshots</name>
+      <url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>
+    </repository>
+  </repositories>
+
+  <properties>
+    <java.version>1.8</java.version>
+    <java.source.version>1.8</java.source.version>
+    <java.target.version>1.8</java.target.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+    <!--jar包版本-->
+    <commons-lang3.version>3.6</commons-lang3.version>
+    <spring-boot.version>2.1.2.RELEASE</spring-boot.version>
+    <spring-boot-starter-security.version>1.5.13.RELEASE</spring-boot-starter-security.version>
+    <spring-boot-web.version>2.0.4.RELEASE</spring-boot-web.version>
+    <spring-boot-configuration-processor.version>1.5.13.RELEASE
+    </spring-boot-configuration-processor.version>
+    <dubbo.version>2.7.0</dubbo.version>
+    <log4j.version>1.2.17</log4j.version>
+    <lombok.version>1.16.20</lombok.version>
+    <dubbo-spring-boot-starter.version>2.7.0</dubbo-spring-boot-starter.version>
+    <zookeeper.version>3.4.13</zookeeper.version>
+    <curator-recipes.version>4.0.1</curator-recipes.version>
+    <mysql-connector-java.version>8.0.13</mysql-connector-java.version>
+    <druid.version>1.1.10</druid.version>
+    <mybatis-spring-boot-starter.version>1.3.1</mybatis-spring-boot-starter.version>
+    <mybatisplus-spring-boot-starter.version>1.0.5</mybatisplus-spring-boot-starter.version>
+    <mybatisplus.version>2.1.9</mybatisplus.version>
+    <spring-jdbc.version>5.1.4.RELEASE</spring-jdbc.version>
+    <fastjson.version>1.2.44</fastjson.version>
+    <springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
+    <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
+    <spring-cloud-starter.version>2.1.1.RELEASE</spring-cloud-starter.version>
+    <spring-cloud-starter-openfeign.version>2.1.1.RELEASE</spring-cloud-starter-openfeign.version>
+    <spring-session-data-redis.version>2.1.4.RELEASE</spring-session-data-redis.version>
+    <spring-session-jdbc.version>2.1.4.RELEASE</spring-session-jdbc.version>
+    <arguments/>
+
+    <!-- Maven plugins -->
+    <spring-boot-maven-plugin.version>2.0.1.RELEASE</spring-boot-maven-plugin.version>
+    <maven-enforcer-plugin.version>1.4.1</maven-enforcer-plugin.version>
+    <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
+    <maven-checkstyle-plugin.version>3.0.0</maven-checkstyle-plugin.version>
+  </properties>
+
+  <dependencyManagement>
+    <dependencies>
+
+      <!--自有-->
+      <dependency>
+        <groupId>com.szss.sec.global</groupId>
+        <artifactId>global-core</artifactId>
+        <version>1.0-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+        <groupId>com.szss.sec.auth</groupId>
+        <artifactId>auth-security-core</artifactId>
+        <version>1.0-SNAPSHOT</version>
+      </dependency>
+
+
+      <!--工具库-->
+      <dependency>
+        <groupId>com.szss.sec.common</groupId>
+        <artifactId>common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+      </dependency>
+
+      <!--apache commons-->
+      <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>${commons-lang3.version}</version>
+      </dependency>
+
+      <!-- Spring Boot -->
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>${spring-boot.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+
+      <!--spring security-->
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-security</artifactId>
+        <version>${spring-boot-starter-security.version}</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.apache.dubbo</groupId>
+        <artifactId>dubbo-spring-boot-starter</artifactId>
+        <version>${dubbo-spring-boot-starter.version}</version>
+      </dependency>
+
+      <!--web-->
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>${spring-boot-web.version}</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-configuration-processor</artifactId>
+        <version>${spring-boot-configuration-processor.version}</version>
+        <optional>true</optional>
+      </dependency>
+
+      <!-- Aapche Dubbo  -->
+      <dependency>
+        <groupId>org.apache.dubbo</groupId>
+        <artifactId>dubbo-dependencies-bom</artifactId>
+        <version>${dubbo.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+
+      <dependency>
+        <groupId>org.apache.dubbo</groupId>
+        <artifactId>dubbo</artifactId>
+        <version>${dubbo.version}</version>
+        <exclusions>
+          <exclusion>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring</artifactId>
+          </exclusion>
+          <exclusion>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+          </exclusion>
+          <exclusion>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+          </exclusion>
+        </exclusions>
+      </dependency>
+
+      <!--zookeeper-->
+      <dependency>
+        <groupId>org.apache.zookeeper</groupId>
+        <artifactId>zookeeper</artifactId>
+        <version>${zookeeper.version}</version>
+        <exclusions>
+          <exclusion>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+          </exclusion>
+        </exclusions>
+      </dependency>
+      <!--zookeeper开源工具-->
+      <dependency>
+        <groupId>org.apache.curator</groupId>
+        <artifactId>curator-recipes</artifactId>
+        <version>${curator-recipes.version}</version>
+      </dependency>
+
+      <!--log4j-->
+      <dependency>
+        <groupId>log4j</groupId>
+        <artifactId>log4j</artifactId>
+        <version>${log4j.version}</version>
+      </dependency>
+
+      <!--lombok-->
+      <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>${lombok.version}</version>
+      </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+      <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-jdbc</artifactId>
+        <version>${spring-jdbc.version}</version>
+      </dependency>
+
+      <!-- mysql-connector-java -->
+      <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>${mysql-connector-java.version}</version>
+      </dependency>
+
+      <!--druid-->
+      <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>druid-spring-boot-starter</artifactId>
+        <version>${druid.version}</version>
+      </dependency>
+
+      <!--mybatis-->
+      <dependency>
+        <groupId>org.mybatis.spring.boot</groupId>
+        <artifactId>mybatis-spring-boot-starter</artifactId>
+        <version>${mybatis-spring-boot-starter.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.baomidou</groupId>
+        <artifactId>mybatisplus-spring-boot-starter</artifactId>
+        <version>${mybatisplus-spring-boot-starter.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.baomidou</groupId>
+        <artifactId>mybatis-plus</artifactId>
+        <version>${mybatisplus.version}</version>
+      </dependency>
+
+      <!-- fastjson -->
+      <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>fastjson</artifactId>
+        <version>${fastjson.version}</version>
+      </dependency>
+
+      <!--swagger-->
+      <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui -->
+      <dependency>
+        <groupId>io.springfox</groupId>
+        <artifactId>springfox-swagger-ui</artifactId>
+        <version>${springfox-swagger-ui.version}</version>
+      </dependency>
+      <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger2 -->
+      <dependency>
+        <groupId>io.springfox</groupId>
+        <artifactId>springfox-swagger2</artifactId>
+        <version>${springfox-swagger2.version}</version>
+      </dependency>
+
+      <!--spring cloud-->
+      <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter -->
+      <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter</artifactId>
+        <version>${spring-cloud-starter.version}</version>
+      </dependency>
+      <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-openfeign -->
+      <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-openfeign</artifactId>
+        <version>${spring-cloud-starter-openfeign.version}</version>
+      </dependency>
+
+      <!--session-redia-->
+      <dependency>
+        <groupId>org.springframework.session</groupId>
+        <artifactId>spring-session-data-redis</artifactId>
+        <version>${spring-session-data-redis.version}</version>
+      </dependency>
+      <!--session-jdbc-->
+      <dependency>
+        <groupId>org.springframework.session</groupId>
+        <artifactId>spring-session-jdbc</artifactId>
+        <version>${spring-session-jdbc.version}</version>
+      </dependency>
+
+
+    </dependencies>
+  </dependencyManagement>
+
+  <!--构建配置-->
+  <build>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-maven-plugin</artifactId>
+          <version>${spring-boot-maven-plugin.version}</version>
+          <executions>
+            <execution>
+              <goals>
+                <goal>repackage</goal>
+                <goal>build-info</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-enforcer-plugin</artifactId>
+          <version>${maven-enforcer-plugin.version}</version>
+          <executions>
+            <execution>
+              <id>enforce-rules</id>
+              <goals>
+                <goal>enforce</goal>
+              </goals>
+              <configuration>
+                <rules>
+                  <requireJavaVersion>
+                    <version>[1.8,)</version>
+                  </requireJavaVersion>
+                  <requireProperty>
+                    <property>project.name</property>
+                  </requireProperty>
+                  <!--<requireProperty>-->
+                  <!--<property>project.description</property>-->
+                  <!--</requireProperty>-->
+                </rules>
+                <fail>true</fail>
+              </configuration>
+            </execution>
+          </executions>
+        </plugin>
+
+        <!--
+        https://blog.csdn.net/liupeifeng3514/article/details/80236077
+        maven-compiler-plugin插件可以指定项目源码的jdk版本，编译后的jdk版本，以及编码
+        -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>${maven-compiler-plugin.version}</version>
+          <configuration>
+            <source>8</source>
+            <target>8</target>
+          </configuration>
+        </plugin>
+
+        <!-- 代码风格检查 -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-checkstyle-plugin</artifactId>
+          <version>${maven-checkstyle-plugin.version}</version>
+          <dependencies>
+            <dependency>
+              <groupId>com.puppycrawl.tools</groupId>
+              <artifactId>checkstyle</artifactId>
+              <version>8.8</version>
+            </dependency>
+          </dependencies>
+          <executions>
+            <execution>
+              <id>check-style</id>
+              <phase>validate</phase>
+              <configuration>
+                <configLocation>dev-support/alibaba-checkstyle.xml</configLocation>
+                <!--<configLocation>google_checks.xml</configLocation>-->
+                <includes>com/szss/**</includes>
+                <includeTestSourceDirectory>true</includeTestSourceDirectory>
+                <consoleOutput>true</consoleOutput>
+                <failsOnError>false</failsOnError>
+                <failOnViolation>false</failOnViolation>
+              </configuration>
+              <goals>
+                <goal>check</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+
+        <!-- 生成javadoc文档包的插件 -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-javadoc-plugin</artifactId>
+          <version>3.0.1</version>
+          <configuration>
+            <charset>utf-8</charset>
+            <encoding>utf-8</encoding>
+          </configuration>
+          <executions>
+            <execution>
+              <id>attach-javadocs</id>
+              <goals>
+                <goal>jar</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+        <!-- 生成sources源码包的插件 -->
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-source-plugin</artifactId>
+          <version>3.0.1</version>
+          <configuration>
+            <attach>true</attach>
+          </configuration>
+          <executions>
+            <execution>
+              <phase>package</phase>
+              <goals>
+                <goal>jar-no-fork</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+
+      </plugins>
+    </pluginManagement>
+
+  </build>
+
+  <reporting>
+    <plugins>
+      <!-- 代码风格检查 -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-checkstyle-plugin</artifactId>
+        <version>${maven-checkstyle-plugin.version}</version>
+        <configuration>
+          <configLocation>dev-support/alibaba-checkstyle.xml</configLocation>
+          <includes>com/szss/**</includes>
+          <includeTestSourceDirectory>true</includeTestSourceDirectory>
+        </configuration>
+      </plugin>
+    </plugins>
+  </reporting>
+
+  <!--云效maven私服-->
+  <distributionManagement>
+    <!--<repository>-->
+      <!--<id>rdc-releases</id>-->
+      <!--<name>release</name>-->
+      <!--<url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>-->
+    <!--</repository>-->
+    <!--<snapshotRepository>-->
+      <!--<id>rdc-snapshots</id>-->
+      <!--<name>snapshot</name>-->
+      <!--<url>https://repo.rdc.aliyun.com/repository/65960-snapshot-3ZiS7O</url>-->
+    <!--</snapshotRepository>-->
+    <repository>
+      <id>sec-releases</id>
+      <name>releases</name>
+      <url>http://192.168.200.31:8081/repository/maven-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>sec-snapshots</id>
+      <name>snapshots</name>
+      <url>http://192.168.200.31:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
+
+
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.szss.sec.middle</groupId>
+  <artifactId>middle-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190318121231</lastUpdated>
+  </versioning>
+</metadata>
