@@ -1,8 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 26 15:25:10 CST 2019
+#Tue Mar 26 15:35:47 CST 2019
 global-1.0-20190320.030554-2.pom>sec-snapshots=
 global-1.0-SNAPSHOT.pom>=
-global-1.0-20190320.065917-4.pom>sec-snapshots=
 global-1.0-20190320.064930-3.pom>sec-snapshots=
+global-1.0-20190320.065917-4.pom>sec-snapshots=
 global-1.0-20190320.080120-5.pom>sec-snapshots=
 global-1.0-20190319.050139-1.pom>sec-snapshots=

@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 26 15:25:24 CST 2019
+#Tue Mar 26 15:35:53 CST 2019
 global-core-1.0-20190320.080134-5.pom>sec-snapshots=
 global-core-1.0-20190319.050146-1-sources.jar>sec-snapshots=
 global-core-1.0-20190320.030558-2-sources.jar>sec-snapshots=
@@ -9,5 +9,5 @@ global-core-1.0-20190319.050146-1.jar>sec-snapshots=
 global-core-1.0-20190320.080134-5.jar>sec-snapshots=
 global-core-1.0-SNAPSHOT.jar>=
 global-core-1.0-20190320.030558-2.pom>sec-snapshots=
-global-core-1.0-20190320.030558-2.jar>sec-snapshots=
 global-core-1.0-SNAPSHOT.pom>=
+global-core-1.0-20190320.030558-2.jar>sec-snapshots=
