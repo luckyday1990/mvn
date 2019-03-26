@@ -491,29 +491,5 @@
     </plugins>
   </reporting>
 
-  <!--云效maven私服-->
-  <distributionManagement>
-    <!--<repository>-->
-      <!--<id>rdc-releases</id>-->
-      <!--<name>release</name>-->
-      <!--<url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>-->
-    <!--</repository>-->
-    <!--<snapshotRepository>-->
-      <!--<id>rdc-snapshots</id>-->
-      <!--<name>snapshot</name>-->
-      <!--<url>https://repo.rdc.aliyun.com/repository/65960-snapshot-3ZiS7O</url>-->
-    <!--</snapshotRepository>-->
-    <repository>
-      <id>sec-releases</id>
-      <name>releases</name>
-      <url>http://192.168.200.31:8081/repository/maven-releases/</url>
-    </repository>
-    <snapshotRepository>
-      <id>sec-snapshots</id>
-      <name>snapshots</name>
-      <url>http://192.168.200.31:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-  </distributionManagement>
-
 
 </project>
