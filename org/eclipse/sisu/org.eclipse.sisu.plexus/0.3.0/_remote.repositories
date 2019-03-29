@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 14:44:12 CST 2019
+org.eclipse.sisu.plexus-0.3.0.jar>repository.spring.release=
+org.eclipse.sisu.plexus-0.3.0.pom>repository.spring.release=
+org.eclipse.sisu.plexus-0.3.0.jar>alimaven=
+org.eclipse.sisu.plexus-0.3.0.pom>alimaven=

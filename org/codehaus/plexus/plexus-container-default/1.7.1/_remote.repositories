@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 12 18:04:53 CST 2018
+plexus-container-default-1.7.1.jar>repository.spring.release=
+plexus-container-default-1.7.1.pom>alimaven=
+plexus-container-default-1.7.1.pom>repository.spring.release=

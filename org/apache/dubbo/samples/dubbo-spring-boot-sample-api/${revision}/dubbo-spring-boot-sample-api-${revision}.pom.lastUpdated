@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 17:48:59 CST 2019
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.dubbo.samples\:dubbo-spring-boot-sample-api\:pom\:${revision} from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: TransferFailedException
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551692939661

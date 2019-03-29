@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:44:09 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512649321
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512649362
+https\://repo.spring.io/snapshot/.lastUpdated=1551512649266
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512649645
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-lgpl\:pom\:1.9.6 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/codehaus/jackson/jackson-mapper-lgpl/1.9.6/jackson-mapper-lgpl-1.9.6.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 1.9.6.

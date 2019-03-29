@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 09:15:18 CST 2019
+spring-boot-2.1.1.RELEASE-sources.jar>alimaven=
+spring-boot-2.1.1.RELEASE-javadoc.jar>alimaven=
+spring-boot-2.1.1.RELEASE.jar>alimaven=
+spring-boot-2.1.1.RELEASE.pom>alimaven=

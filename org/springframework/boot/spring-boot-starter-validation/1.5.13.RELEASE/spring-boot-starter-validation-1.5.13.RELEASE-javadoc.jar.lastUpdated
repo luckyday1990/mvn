@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 10:03:05 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1552701779017
+http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.error=
+https\://repo.spring.io/libs-milestone/.lastUpdated=1552701782843
+https\://repo.spring.io/libs-milestone/.error=
+https\://dl.bintray.com/palantir/releases/.lastUpdated=1552701780395
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://dl.bintray.com/palantir/releases/.error=
+http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.lastUpdated=1552701785067
+http\://repo.spring.io/plugins-release/.lastUpdated=1552701781751
+http\://repo.spring.io/plugins-release/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1552701783425
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=

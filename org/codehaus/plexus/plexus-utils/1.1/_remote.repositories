@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 12 09:24:45 CST 2019
+plexus-utils-1.1.jar>alimaven=
+plexus-utils-1.1.pom>alimaven=
+plexus-utils-1.1.pom>repository.spring.release=

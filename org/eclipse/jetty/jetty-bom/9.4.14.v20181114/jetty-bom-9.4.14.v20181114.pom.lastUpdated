@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:10 CST 2019
+https\://repo.spring.io/plugins-release/.lastUpdated=1551512889612
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.eclipse.jetty\:jetty-bom\:pom\:9.4.14.v20181114 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 9.4.14.v20181114.
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512437201
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512436890
+https\://repo.spring.io/snapshot/.lastUpdated=1551512436839
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512436931
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551660970010

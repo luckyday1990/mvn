@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:57:24 CST 2019
+maven-scm-manager-plexus-1.8.jar>repository.spring.release=
+maven-scm-manager-plexus-1.8.pom>repository.spring.release=
+maven-scm-manager-plexus-1.8.jar>alimaven=
+maven-scm-manager-plexus-1.8.pom>alimaven=

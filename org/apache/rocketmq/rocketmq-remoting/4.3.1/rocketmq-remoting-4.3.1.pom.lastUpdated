@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:45:32 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512732493
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512732539
+https\://repo.spring.io/snapshot/.lastUpdated=1551512732446
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512732840
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.apache.rocketmq\:rocketmq-remoting\:pom\:4.3.1 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/apache/rocketmq/rocketmq-remoting/4.3.1/rocketmq-remoting-4.3.1.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 4.3.1.

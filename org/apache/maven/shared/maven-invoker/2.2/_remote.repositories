@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:57:24 CST 2019
+maven-invoker-2.2.jar>alimaven=
+maven-invoker-2.2.jar>repository.spring.release=
+maven-invoker-2.2.pom>alimaven=
+maven-invoker-2.2.pom>repository.spring.release=

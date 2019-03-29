@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-alibaba-nacos-discovery</artifactId>
+  <version>0.2.2.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190302.050055</timestamp>
+      <buildNumber>646</buildNumber>
+    </snapshot>
+    <lastUpdated>20190302050059</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.2.2.BUILD-20190302.050055-646</value>
+        <updated>20190302050055</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.2.2.BUILD-20190302.050055-646</value>
+        <updated>20190302050055</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.2.BUILD-20190302.050055-646</value>
+        <updated>20190302050055</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.2.BUILD-20190302.050055-646</value>
+        <updated>20190302050055</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 26 09:24:09 CST 2019
+junit-platform-engine-1.3.2.jar>alimaven=
+junit-platform-engine-1.3.2-sources.jar>alimaven=
+junit-platform-engine-1.3.2.pom>alimaven=
+junit-platform-engine-1.3.2-javadoc.jar>alimaven=

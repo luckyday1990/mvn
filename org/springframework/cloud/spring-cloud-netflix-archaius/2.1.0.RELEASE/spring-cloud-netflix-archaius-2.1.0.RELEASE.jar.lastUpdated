@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:43:56 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512634006
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512634270
+https\://repo.spring.io/snapshot/.lastUpdated=1551512633701
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512636253
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-netflix-archaius\:jar\:2.1.0.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.0.RELEASE/spring-cloud-netflix-archaius-2.1.0.RELEASE.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 2.1.0.RELEASE.

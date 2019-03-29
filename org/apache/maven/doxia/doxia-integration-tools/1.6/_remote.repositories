@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 09:39:45 CST 2018
+doxia-integration-tools-1.6.jar>repository.spring.release=
+doxia-integration-tools-1.6.pom>repository.spring.release=

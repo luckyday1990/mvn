@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 11 15:12:47 CST 2019
+curator-client-4.0.1.jar>alimaven=
+curator-client-4.0.1.pom>alimaven=
+curator-client-4.0.1-sources.jar>aliyun=

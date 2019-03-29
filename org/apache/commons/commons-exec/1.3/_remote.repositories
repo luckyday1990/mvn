@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 26 08:58:06 CST 2019
+commons-exec-1.3.jar>aliyun=
+commons-exec-1.3.jar>repository.spring.release=
+commons-exec-1.3.pom>repository.spring.release=
+commons-exec-1.3-javadoc.jar>aliyun=
+commons-exec-1.3.jar>alimaven=
+commons-exec-1.3-sources.jar>aliyun=
+commons-exec-1.3.pom>aliyun=
+commons-exec-1.3.pom>alimaven=

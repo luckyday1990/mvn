@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 08:57:54 CST 2018
+velocity-1.5.jar>alimaven=
+velocity-1.5.jar>repository.spring.release=
+velocity-1.5.pom>alimaven=
+velocity-1.5.pom>repository.spring.release=

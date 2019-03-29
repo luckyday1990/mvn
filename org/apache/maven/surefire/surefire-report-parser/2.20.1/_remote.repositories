@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 09:37:23 CST 2018
+surefire-report-parser-2.20.1.pom>repository.spring.release=
+surefire-report-parser-2.20.1.jar>repository.spring.release=

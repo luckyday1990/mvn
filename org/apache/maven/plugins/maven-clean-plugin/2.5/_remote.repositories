@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 08:57:32 CST 2018
+maven-clean-plugin-2.5.jar>repository.spring.release=
+maven-clean-plugin-2.5.pom>repository.spring.release=
+maven-clean-plugin-2.5.jar>alimaven=
+maven-clean-plugin-2.5.pom>alimaven=

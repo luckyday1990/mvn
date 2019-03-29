@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:47:45 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512861668
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512861940
+https\://repo.spring.io/snapshot/.lastUpdated=1551512861400
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512865506
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.mongodb\:mongo-java-driver\:jar\:3.8.2 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/mongodb/mongo-java-driver/3.8.2/mongo-java-driver-3.8.2.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 3.8.2.

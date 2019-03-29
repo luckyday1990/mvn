@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:57:24 CST 2019
+groovy-all-1.7.6.jar>repository.spring.release=
+groovy-all-1.7.6.jar>alimaven=
+groovy-all-1.7.6.pom>repository.spring.release=
+groovy-all-1.7.6.pom>alimaven=

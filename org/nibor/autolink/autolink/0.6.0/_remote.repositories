@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 12 18:05:02 CST 2018
+autolink-0.6.0.jar>repository.spring.release=
+autolink-0.6.0.pom>repository.spring.release=
+autolink-0.6.0.jar>alimaven=
+autolink-0.6.0.pom>alimaven=

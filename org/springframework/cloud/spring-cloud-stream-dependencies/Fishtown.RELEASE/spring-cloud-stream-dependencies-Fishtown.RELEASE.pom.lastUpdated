@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:40:50 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512449890
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512449949
+https\://repo.spring.io/snapshot/.lastUpdated=1551512449838
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512450200
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-dependencies\:pom\:Fishtown.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.RELEASE/spring-cloud-stream-dependencies-Fishtown.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: Fishtown.RELEASE.

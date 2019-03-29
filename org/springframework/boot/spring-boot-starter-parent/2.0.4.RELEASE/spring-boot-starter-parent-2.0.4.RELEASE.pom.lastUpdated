@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 07 09:30:01 CST 2018
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1536283801777
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1536283300890
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.0.4.RELEASE from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net

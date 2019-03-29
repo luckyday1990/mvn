@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 12 18:04:39 CST 2018
+maven-common-artifact-filters-3.0.1.jar>repository.spring.release=
+maven-common-artifact-filters-3.0.1.pom>repository.spring.release=
+maven-common-artifact-filters-3.0.1.jar>alimaven=
+maven-common-artifact-filters-3.0.1.pom>alimaven=

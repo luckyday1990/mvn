@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 08 16:47:43 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512725889
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1552034863429
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512725953
+https\://repo.spring.io/snapshot/.lastUpdated=1551512725824
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Ingalls-SR4 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/data/spring-data-releasetrain/Ingalls-SR4/spring-data-releasetrain-Ingalls-SR4.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: Ingalls-SR4.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512726353

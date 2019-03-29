@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:35 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512542773
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551660995448
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512542816
+https\://repo.spring.io/snapshot/.lastUpdated=1551512542718
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.hibernate.validator\:hibernate-validator-parent\:pom\:6.0.14.Final from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/hibernate/validator/hibernate-validator-parent/6.0.14.Final/hibernate-validator-parent-6.0.14.Final.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 6.0.14.Final.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512543165

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 14:44:12 CST 2019
+javassist-3.18.1-GA.jar>alimaven=
+javassist-3.18.1-GA.pom>alimaven=
+javassist-3.18.1-GA.jar>repository.spring.release=
+javassist-3.18.1-GA.pom>repository.spring.release=

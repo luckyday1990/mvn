@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 24 16:45:27 CST 2018
+spring-boot-starter-tomcat-1.5.14.RELEASE.jar>alimaven=
+spring-boot-starter-tomcat-1.5.14.RELEASE.pom>alimaven=
+spring-boot-starter-tomcat-1.5.14.RELEASE-sources.jar>alimaven=

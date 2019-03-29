@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:41:00 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512459941
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512459983
+https\://repo.spring.io/snapshot/.lastUpdated=1551512459893
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512460236
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-security-dependencies\:pom\:2.1.0.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/cloud/spring-cloud-security-dependencies/2.1.0.RELEASE/spring-cloud-security-dependencies-2.1.0.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 2.1.0.RELEASE.

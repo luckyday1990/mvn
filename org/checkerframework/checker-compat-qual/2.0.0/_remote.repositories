@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 27 15:28:26 CST 2019
+checker-compat-qual-2.0.0.jar>aliyun=
+checker-compat-qual-2.0.0.jar>repository.spring.release=
+checker-compat-qual-2.0.0.pom>repository.spring.release=
+checker-compat-qual-2.0.0.pom>aliyun=

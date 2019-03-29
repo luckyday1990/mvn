@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 27 15:27:28 CST 2019
+maven-surefire-plugin-2.20.1.pom>repository.spring.release=
+maven-surefire-plugin-2.20.1.jar>alimaven=
+maven-surefire-plugin-2.20.1.jar>repository.spring.release=
+maven-surefire-plugin-2.20.1.pom>alimaven=

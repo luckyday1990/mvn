@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:10 CST 2019
+spring-integration-bom-5.1.2.RELEASE.pom>repository.spring.release=
+spring-integration-bom-5.1.2.RELEASE.pom>aliyun=
+spring-integration-bom-5.1.2.RELEASE.pom>alimaven=

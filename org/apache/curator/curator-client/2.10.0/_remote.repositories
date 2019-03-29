@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 13:39:52 CST 2018
+curator-client-2.10.0-sources.jar>aliyun=
+curator-client-2.10.0.pom>aliyun=
+curator-client-2.10.0.jar>aliyun=

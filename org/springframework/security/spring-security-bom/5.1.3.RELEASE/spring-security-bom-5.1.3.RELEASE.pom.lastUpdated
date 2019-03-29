@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:10 CST 2019
+https\://repo.spring.io/plugins-release/.lastUpdated=1551512891330
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.security\:spring-security-bom\:pom\:5.1.3.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/security/spring-security-bom/5.1.3.RELEASE/spring-security-bom-5.1.3.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 5.1.3.RELEASE.
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512442276
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512441975
+https\://repo.spring.io/snapshot/.lastUpdated=1551512441922
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512442015
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551660970947

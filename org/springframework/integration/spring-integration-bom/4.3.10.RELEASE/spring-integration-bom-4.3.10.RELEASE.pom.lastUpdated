@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 08 16:47:43 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512727894
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1552034863607
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512727935
+https\://repo.spring.io/snapshot/.lastUpdated=1551512727834
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.10.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/integration/spring-integration-bom/4.3.10.RELEASE/spring-integration-bom-4.3.10.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 4.3.10.RELEASE.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512728195

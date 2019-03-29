@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 27 15:28:46 CST 2019
+surefire-booter-2.20.1.jar>alimaven=
+surefire-booter-2.20.1.pom>alimaven=
+surefire-booter-2.20.1.jar>repository.spring.release=
+surefire-booter-2.20.1.pom>repository.spring.release=

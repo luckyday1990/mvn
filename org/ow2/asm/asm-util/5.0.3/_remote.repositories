@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 14:44:12 CST 2019
+asm-util-5.0.3.jar>repository.spring.release=
+asm-util-5.0.3.jar>alimaven=
+asm-util-5.0.3.pom>repository.spring.release=
+asm-util-5.0.3.pom>alimaven=

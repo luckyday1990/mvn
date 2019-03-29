@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 09:41:13 CST 2018
+org.eclipse.sisu.plexus-0.0.0.M2a.jar>repository.spring.release=
+org.eclipse.sisu.plexus-0.0.0.M2a.pom>repository.spring.release=

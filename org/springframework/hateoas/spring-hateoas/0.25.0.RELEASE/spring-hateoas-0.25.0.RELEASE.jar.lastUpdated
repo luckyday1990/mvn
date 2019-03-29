@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:43:19 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512579520
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512580466
+https\://repo.spring.io/snapshot/.lastUpdated=1551512578569
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.hateoas\:spring-hateoas\:jar\:0.25.0.RELEASE from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/hateoas/spring-hateoas/0.25.0.RELEASE/spring-hateoas-0.25.0.RELEASE.jar. Return code is\: 400, ReasonPhrase\: Repository version policy\: SNAPSHOT does not allow version\: 0.25.0.RELEASE.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512599927

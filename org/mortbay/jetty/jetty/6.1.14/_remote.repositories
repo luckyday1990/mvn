@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 09:39:29 CST 2018
+jetty-6.1.14.jar>repository.spring.release=
+jetty-6.1.14.pom>repository.spring.release=

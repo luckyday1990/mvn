@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 06 16:29:54 CST 2018
+rhino-1.7R4-sources.jar>aliyun=
+rhino-1.7R4.pom>aliyun=
+rhino-1.7R4.jar>aliyun=
+rhino-1.7R4.jar>repository.spring.release=
+rhino-1.7R4.pom>repository.spring.release=
+rhino-1.7R4-javadoc.jar>aliyun=

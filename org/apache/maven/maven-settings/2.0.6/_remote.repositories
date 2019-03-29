@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 07 12:38:26 CST 2018
+maven-settings-2.0.6.pom>repository.spring.release=
+maven-settings-2.0.6.jar>alimaven=
+maven-settings-2.0.6.pom>alimaven=
+maven-settings-2.0.6.jar>repository.spring.release=

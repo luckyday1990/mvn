@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 13:48:21 CST 2018
+animal-sniffer-annotations-1.14.jar>repository.spring.release=
+animal-sniffer-annotations-1.14-javadoc.jar>aliyun=
+animal-sniffer-annotations-1.14.pom>aliyun=
+animal-sniffer-annotations-1.14.pom>repository.spring.release=
+animal-sniffer-annotations-1.14-sources.jar>aliyun=
+animal-sniffer-annotations-1.14.jar>aliyun=

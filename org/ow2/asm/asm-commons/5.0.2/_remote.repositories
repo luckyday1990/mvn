@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 15:34:57 CST 2018
+asm-commons-5.0.2.pom>aliyun=
+asm-commons-5.0.2.jar>aliyun=
+asm-commons-5.0.2.jar>repository.spring.release=
+asm-commons-5.0.2-javadoc.jar>aliyun=
+asm-commons-5.0.2.pom>repository.spring.release=
+asm-commons-5.0.2-sources.jar>aliyun=

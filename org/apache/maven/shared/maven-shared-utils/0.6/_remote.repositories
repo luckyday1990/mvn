@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 26 08:58:34 CST 2019
+maven-shared-utils-0.6.jar>repository.spring.release=
+maven-shared-utils-0.6.pom>repository.spring.release=
+maven-shared-utils-0.6.jar>alimaven=
+maven-shared-utils-0.6.pom>alimaven=

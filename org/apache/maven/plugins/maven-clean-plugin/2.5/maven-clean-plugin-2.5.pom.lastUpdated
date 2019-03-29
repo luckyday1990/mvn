@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 08:57:32 CST 2018
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1542070652589
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1536282916614
+https\://repo.spring.io/plugins-release/.lastUpdated=1536284539212
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net

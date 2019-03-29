@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 09:40:29 CST 2018
+plexus-sec-dispatcher-1.4.jar>repository.spring.release=
+plexus-sec-dispatcher-1.4.pom>repository.spring.release=

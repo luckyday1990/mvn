@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 14:44:12 CST 2019
+bcprov-jdk15on-1.59.jar>alimaven=
+bcprov-jdk15on-1.59.pom>alimaven=
+bcprov-jdk15on-1.59.jar>repository.spring.release=
+bcprov-jdk15on-1.59.pom>repository.spring.release=

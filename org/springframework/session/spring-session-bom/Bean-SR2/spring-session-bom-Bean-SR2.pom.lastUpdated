@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:11 CST 2019
+https\://repo.spring.io/plugins-release/.lastUpdated=1551512891679
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Bean-SR2 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/springframework/session/spring-session-bom/Bean-SR2/spring-session-bom-Bean-SR2.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: Bean-SR2.
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512443038
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512442732
+https\://repo.spring.io/snapshot/.lastUpdated=1551512442675
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512442775
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551660971045

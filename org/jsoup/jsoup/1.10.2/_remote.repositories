@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 12 18:05:02 CST 2018
+jsoup-1.10.2.jar>repository.spring.release=
+jsoup-1.10.2.pom>repository.spring.release=
+jsoup-1.10.2.jar>alimaven=
+jsoup-1.10.2.pom>alimaven=

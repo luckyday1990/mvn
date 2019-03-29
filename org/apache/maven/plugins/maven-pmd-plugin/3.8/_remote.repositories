@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 26 08:58:23 CST 2019
+maven-pmd-plugin-3.8.pom>repository.spring.release=
+maven-pmd-plugin-3.8.jar>alimaven=
+maven-pmd-plugin-3.8.pom>alimaven=
+maven-pmd-plugin-3.8.jar>repository.spring.release=

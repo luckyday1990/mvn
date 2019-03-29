@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 07 12:37:47 CST 2018
+asm-parent-5.0.3.pom>repository.spring.release=
+asm-parent-5.0.3.pom>aliyun=
+asm-parent-5.0.3.pom>alimaven=

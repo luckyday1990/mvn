@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 19 14:44:12 CST 2019
+org.eclipse.jgit-3.2.0.201312181205-r.jar>alimaven=
+org.eclipse.jgit-3.2.0.201312181205-r.jar>repository.spring.release=
+org.eclipse.jgit-3.2.0.201312181205-r.pom>alimaven=
+org.eclipse.jgit-3.2.0.201312181205-r.pom>repository.spring.release=

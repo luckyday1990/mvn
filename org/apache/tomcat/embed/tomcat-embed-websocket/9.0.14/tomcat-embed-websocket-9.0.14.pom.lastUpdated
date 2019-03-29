@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:56:35 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512539833
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551660995151
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512539876
+https\://repo.spring.io/snapshot/.lastUpdated=1551512539782
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-websocket\:pom\:9.0.14 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.14/tomcat-embed-websocket-9.0.14.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 9.0.14.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512540171

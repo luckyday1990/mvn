@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 08:57:42 CST 2018
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1542070662815
+@default-nexus-osc-http\://maven.oschina.net/content/groups/public/.lastUpdated=1536282916665
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-deploy-plugin\:pom\:2.7 from/to nexus-osc (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net

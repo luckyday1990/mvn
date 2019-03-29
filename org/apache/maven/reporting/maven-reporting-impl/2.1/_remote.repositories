@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 12 09:24:59 CST 2019
+maven-reporting-impl-2.1.jar>repository.spring.release=
+maven-reporting-impl-2.1.pom>alimaven=
+maven-reporting-impl-2.1.pom>repository.spring.release=
+maven-reporting-impl-2.1.jar>alimaven=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 08:57:10 CST 2019
+maven-source-plugin-3.0.1.jar>repository.spring.release=
+maven-source-plugin-3.0.1.pom>repository.spring.release=
+maven-source-plugin-3.0.1.jar>alimaven=
+maven-source-plugin-3.0.1.pom>alimaven=

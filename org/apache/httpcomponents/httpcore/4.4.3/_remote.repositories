@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 24 16:45:40 CST 2018
+httpcore-4.4.3-sources.jar>alimaven=
+httpcore-4.4.3.pom>repository.spring.release=
+httpcore-4.4.3.jar>alimaven=
+httpcore-4.4.3.pom>alimaven=
+httpcore-4.4.3-javadoc.jar>alimaven=
+httpcore-4.4.3.jar>repository.spring.release=

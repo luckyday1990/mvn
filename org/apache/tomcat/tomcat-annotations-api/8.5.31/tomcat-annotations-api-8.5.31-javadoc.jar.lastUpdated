@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 24 16:45:42 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1536818775974
+http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.error=Could not transfer artifact org.apache.tomcat\:tomcat-annotations-api\:jar\:javadoc\:8.5.31 from/to snapshots (http\://g.3songshu.com\:8081/artifactory/libs-snapshot)\: Failed to transfer file\: http\://g.3songshu.com\:8081/artifactory/libs-snapshot/org/apache/tomcat/tomcat-annotations-api/8.5.31/tomcat-annotations-api-8.5.31-javadoc.jar. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+https\://repo.spring.io/libs-milestone/.lastUpdated=1536818778404
+@default-snapshots-http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.lastUpdated=1536818898555
+https\://repo.spring.io/libs-milestone/.error=
+https\://dl.bintray.com/palantir/releases/.lastUpdated=1536818776966
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://dl.bintray.com/palantir/releases/.error=
+http\://repo.spring.io/plugins-release/.lastUpdated=1536818777706
+http\://repo.spring.io/plugins-release/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1545641142717

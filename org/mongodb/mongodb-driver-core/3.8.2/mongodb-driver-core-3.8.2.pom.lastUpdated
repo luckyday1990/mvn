@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 02 15:45:07 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512707071
+https\://repo.spring.io/snapshot/.error=
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512707114
+https\://repo.spring.io/snapshot/.lastUpdated=1551512707020
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512707495
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.mongodb\:mongodb-driver-core\:pom\:3.8.2 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/mongodb/mongodb-driver-core/3.8.2/mongodb-driver-core-3.8.2.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 3.8.2.

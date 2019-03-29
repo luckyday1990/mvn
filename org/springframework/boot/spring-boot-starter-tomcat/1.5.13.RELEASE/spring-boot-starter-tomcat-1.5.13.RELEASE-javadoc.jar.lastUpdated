@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 14:06:14 CST 2018
+http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-tomcat\:jar\:javadoc\:1.5.13.RELEASE from/to snapshots (http\://g.3songshu.com\:8081/artifactory/libs-snapshot)\: Failed to transfer file\: http\://g.3songshu.com\:8081/artifactory/libs-snapshot/org/springframework/boot/spring-boot-starter-tomcat/1.5.13.RELEASE/spring-boot-starter-tomcat-1.5.13.RELEASE-javadoc.jar. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1536818651627
+https\://repo.spring.io/libs-milestone/.lastUpdated=1536818654360
+@default-snapshots-http\://g.3songshu.com\:8081/artifactory/libs-snapshot/.lastUpdated=1536818774552
+https\://repo.spring.io/libs-milestone/.error=
+https\://dl.bintray.com/palantir/releases/.lastUpdated=1536818652456
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://dl.bintray.com/palantir/releases/.error=
+http\://repo.spring.io/plugins-release/.lastUpdated=1536818653831
+http\://repo.spring.io/plugins-release/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1536818654484
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=

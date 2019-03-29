@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 17:38:16 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512491215
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1551692296653
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512491256
+https\://repo.spring.io/snapshot/.lastUpdated=1551512491176
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.11.2 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 2.11.2.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512491508

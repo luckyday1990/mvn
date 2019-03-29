@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 13 08:57:54 CST 2018
+plexus-velocity-1.1.8.jar>repository.spring.release=
+plexus-velocity-1.1.8.pom>repository.spring.release=
+plexus-velocity-1.1.8.jar>alimaven=
+plexus-velocity-1.1.8.pom>alimaven=

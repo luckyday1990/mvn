@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 08 16:47:50 CST 2019
+http\://218.94.56.238\:8081/repository/maven-releases/.lastUpdated=1551512664649
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1552034870722
+@default-nexus-snapshots-http\://218.94.56.238\:8081/repository/maven-snapshots/.lastUpdated=1551512664687
+https\://repo.spring.io/snapshot/.lastUpdated=1551512664604
+http\://218.94.56.238\:8081/repository/maven-releases/.error=
+http\://218.94.56.238\:8081/repository/maven-snapshots/.error=Could not transfer artifact org.objenesis\:objenesis\:pom\:2.5.1 from/to nexus-snapshots (http\://218.94.56.238\:8081/repository/maven-snapshots)\: Failed to transfer file\: http\://218.94.56.238\:8081/repository/maven-snapshots/org/objenesis/objenesis/2.5.1/objenesis-2.5.1.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 2.5.1.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1551512664944

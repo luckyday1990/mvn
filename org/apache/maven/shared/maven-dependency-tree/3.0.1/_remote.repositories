@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 09:14:57 CST 2019
+maven-dependency-tree-3.0.1.jar>alimaven=
+maven-dependency-tree-3.0.1.pom>alimaven=
+maven-dependency-tree-3.0.1.jar>repository.spring.release=
+maven-dependency-tree-3.0.1.pom>repository.spring.release=
