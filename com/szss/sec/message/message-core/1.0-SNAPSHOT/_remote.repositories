@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 03 14:14:17 CST 2019
+#Wed Apr 03 15:20:12 CST 2019
 message-core-1.0-SNAPSHOT.jar>=
 message-core-1.0-SNAPSHOT.pom>=
 message-core-1.0-SNAPSHOT-sources.jar>=
