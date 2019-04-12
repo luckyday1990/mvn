@@ -21,19 +21,18 @@
   <name>middle::parent</name>
 
   <repositories>
-    <!--云效私服-->
     <repository>
-      <id>rdc-snapshots</id>
-      <name>snapshots</name>
-      <url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>
-    </repository>
-    <repository>
-      <id>rdc-releases</id>
+      <id>sec-releases</id>
       <name>releases</name>
-      <url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>
+      <url>https://raw.githubusercontent.com/luckyday1990/mvn/master/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
+    </repository>
+    <repository>
+      <id>sec-snapshots</id>
+      <name>snapshots</name>
+      <url>https://raw.githubusercontent.com/luckyday1990/mvn/master/</url>
     </repository>
 
   </repositories>
