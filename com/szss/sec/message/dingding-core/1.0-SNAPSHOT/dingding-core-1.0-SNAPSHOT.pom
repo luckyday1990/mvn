@@ -173,6 +173,13 @@
       </properties>
     </profile>
     <profile>
+      <id>fat</id>
+      <properties>
+        <profile.id>fat</profile.id>
+        <env>fat</env>
+      </properties>
+    </profile>
+    <profile>
       <id>pro</id>
       <properties>
         <profile.id>pro</profile.id>

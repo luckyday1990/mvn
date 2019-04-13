@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 12 15:28:43 CST 2019
-middle-core-1.0-SNAPSHOT.jar>=
+#Fri Apr 12 17:39:30 CST 2019
 middle-core-1.0-SNAPSHOT-sources.jar>=
+middle-core-1.0-SNAPSHOT.jar>=
 middle-core-1.0-SNAPSHOT.pom>=
