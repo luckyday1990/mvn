@@ -1,14 +1,16 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 12 17:48:11 CST 2019
+#Mon Apr 15 15:45:35 CST 2019
+http\://218.94.56.238\:8081/repository/maven-public/.lastUpdated=1555314315552
 https\://raw.githubusercontent.com/luckyday1990/mvn/master/.error=
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555062487526
-https\://repo.spring.io/libs-milestone/.lastUpdated=1555062489944
-https\://raw.githubusercontent.com/luckyday1990/mvn/master/.lastUpdated=1555062480656
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555314330867
+https\://repo.spring.io/libs-milestone/.lastUpdated=1555314333149
+https\://raw.githubusercontent.com/luckyday1990/mvn/master/.lastUpdated=1555314315023
 https\://repo.spring.io/libs-milestone/.error=
-https\://jcenter.bintray.com/.lastUpdated=1555062491059
-https\://dl.bintray.com/palantir/releases/.lastUpdated=1555062488467
+https\://jcenter.bintray.com/.lastUpdated=1555314335742
+https\://dl.bintray.com/palantir/releases/.lastUpdated=1555314331905
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
 https\://dl.bintray.com/palantir/releases/.error=
+http\://218.94.56.238\:8081/repository/maven-public/.error=
+http\://repo.spring.io/plugins-release/.lastUpdated=1555314332668
 https\://jcenter.bintray.com/.error=
-http\://repo.spring.io/plugins-release/.lastUpdated=1555062489258
 http\://repo.spring.io/plugins-release/.error=

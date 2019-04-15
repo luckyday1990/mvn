@@ -21,25 +21,11 @@
   <name>forum-parent</name>
 
   <repositories>
-    <!--&lt;!&ndash;云效私服&ndash;&gt;-->
-    <!--<repository>-->
-      <!--<id>rdc-snapshots</id>-->
-      <!--<name>snapshots</name>-->
-      <!--<url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>-->
-    <!--</repository>-->
-    <!--<repository>-->
-      <!--<id>rdc-releases</id>-->
-      <!--<name>releases</name>-->
-      <!--<url>https://repo.rdc.aliyun.com/repository/65960-release-6xyHce</url>-->
-      <!--<snapshots>-->
-        <!--<enabled>false</enabled>-->
-      <!--</snapshots>-->
-    <!--</repository>-->
 
     <repository>
       <id>sec-releases</id>
       <name>releases</name>
-      <url>http://192.168.200.31:8081/repository/maven-releases/</url>
+      <url>https://raw.githubusercontent.com/luckyday1990/mvn/master/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
@@ -47,7 +33,7 @@
     <repository>
       <id>sec-snapshots</id>
       <name>snapshots</name>
-      <url>http://192.168.200.31:8081/repository/maven-snapshots/</url>
+      <url>https://raw.githubusercontent.com/luckyday1990/mvn/master/</url>
     </repository>
 
   </repositories>
