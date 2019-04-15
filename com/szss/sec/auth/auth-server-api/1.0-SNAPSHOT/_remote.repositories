@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Apr 13 16:53:09 CST 2019
+#Mon Apr 15 16:20:15 CST 2019
 auth-server-api-1.0-SNAPSHOT.jar>=
 auth-server-api-1.0-SNAPSHOT.pom>=
 auth-server-api-1.0-20190319.053309-1.pom>sec-snapshots=

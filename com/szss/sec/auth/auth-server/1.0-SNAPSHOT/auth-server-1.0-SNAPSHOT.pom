@@ -37,6 +37,17 @@
       <url>https://raw.githubusercontent.com/luckyday1990/mvn/master/</url>
     </repository>
 
+    <repository>
+      <id>nexus-releases</id>
+      <name>nanjin-release</name>
+      <url>http://218.94.56.238:8081/repository/maven-public</url>
+    </repository>
+    <repository>
+      <id>nexus-snapshots</id>
+      <name>nanjin-snapshots</name>
+      <url>http://218.94.56.238:8081/repository/maven-public</url>
+    </repository>
+
   </repositories>
 
 

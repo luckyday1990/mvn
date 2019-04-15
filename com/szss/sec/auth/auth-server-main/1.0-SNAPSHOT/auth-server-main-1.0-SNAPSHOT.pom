@@ -45,6 +45,37 @@
       <version>1.0-SNAPSHOT</version>
     </dependency>
 
+    <!--forum服务-->
+    <dependency>
+      <groupId>com.szss.sec.forum</groupId>
+      <artifactId>forum-api</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+
+    <!--对接南京用户登录-->
+    <dependency>
+      <groupId>com.songshu</groupId>
+      <artifactId>snt-uic-client</artifactId>
+      <version>1.0.6-SNAPSHOT</version>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>com.songshu</groupId>
+      <artifactId>snt-base-common</artifactId>
+      <version>1.0.3-SNAPSHOT</version>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>com.songshu</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
