@@ -80,6 +80,8 @@
     <spring-boot.version>2.1.2.RELEASE</spring-boot.version>
     <spring-boot-starter-security.version>1.5.13.RELEASE</spring-boot-starter-security.version>
     <spring-boot-web.version>2.0.4.RELEASE</spring-boot-web.version>
+    <spring-boot-starter-aop.verion>2.1.3.RELEASE</spring-boot-starter-aop.verion>
+    <aspectjrt.version>1.9.2</aspectjrt.version>
     <spring-boot-configuration-processor.version>1.5.13.RELEASE
     </spring-boot-configuration-processor.version>
     <dubbo.version>2.7.0</dubbo.version>
@@ -174,6 +176,18 @@
         <artifactId>spring-boot-configuration-processor</artifactId>
         <version>${spring-boot-configuration-processor.version}</version>
         <optional>true</optional>
+      </dependency>
+
+      <!--Aspect-->
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-aop</artifactId>
+        <version>${spring-boot-starter-aop.verion}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjrt</artifactId>
+        <version>${aspectjrt.version}</version>
       </dependency>
 
       <!-- Aapche Dubbo  -->
