@@ -1,8 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 24 10:39:09 CST 2019
+#Wed Apr 24 10:47:21 CST 2019
 auth-security-core-1.0-20190319.053314-1.jar>sec-snapshots=
 auth-security-core-1.0-SNAPSHOT.jar>=
 auth-security-core-1.0-20190319.053314-1-sources.jar>sec-snapshots=
 auth-security-core-1.0-SNAPSHOT.pom>=
-auth-security-core-1.0-SNAPSHOT-sources.jar>=
 auth-security-core-1.0-20190319.053314-1.pom>sec-snapshots=
+auth-security-core-1.0-SNAPSHOT-sources.jar>=
